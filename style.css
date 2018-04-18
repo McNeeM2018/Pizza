@@ -1,0 +1,28 @@
+body {
+background-color:red;
+color:MediumBlue;
+}
+div.olives {
+background-image:url("olives.jpg");
+height:400px;
+width: 400px;
+
+}
+div.pepperoni {
+background-image:url("Pepperoni.jpg");
+height: 400px;
+width: 400px;
+}
+
+div.sausage {
+background-image: url("sausage.jpg");
+height: 500px;
+width: 500px;
+}
+div.bannapeppers {
+background-image: url("banana peppers.jpg");
+height: 200px;
+width: 200px;
+}
+
+
